@@ -1,0 +1,10 @@
+{
+    "name": "fatmaalzahraa/blog",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core/",
+            "Http\\": "Http/"
+        }
+    },
+    "require": {}
+}

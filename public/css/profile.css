@@ -1,0 +1,34 @@
+/* profile.css */
+.bg-c-lite-green {
+    background: #0C61F7 !important;
+}
+
+.card.user-card-full {
+    border: none;
+    border-radius: 10px;
+}
+.custom-hr{
+   width: 10vw;
+}
+
+.card .card-block {
+    padding: 1.25rem;
+}
+
+.card .text-lead {
+    color: #6c757d;
+}
+
+.text-muted {
+    color: #6c757d !important;
+}
+
+.social-link i {
+    font-size: 20px;
+    margin-right: 10px;
+    color: #0C61F7;
+}
+
+.social-link i:hover {
+    color: #0a47b8;
+}
